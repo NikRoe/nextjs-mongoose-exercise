@@ -1,0 +1,36 @@
+[
+  {
+    "question": "What is React?",
+    "answer": 1,
+    "options": [
+      "React is a HTML library for creating forms.",
+      "React is a JavaScript library for rendering user interfaces.",
+      "React is a Java library for flexible user interfaces."
+    ]
+  },
+  {
+    "question": "What is JSX?",
+    "answer": 2,
+    "options": [
+      "JSX is a shorthand for the JavaScript method `.reduce()`.",
+      "JSX is a testing library.",
+      "JSX is a syntax extension to JavaScript.",
+      "JSX is a VS Code extension."
+    ]
+  },
+  {
+    "question": "How can you declare fragments in JSX?",
+    "answer": 1,
+    "options": ["<Fragment></Fragment>", "<></>", "<Group></Group>", "<F></F>"]
+  },
+  {
+    "question": "How can you comment in JSX?",
+    "answer": 1,
+    "options": ["//", "{/*...*/}", "/* ... */"]
+  },
+  {
+    "question": "Which of the following would be a React component in JSX?",
+    "answer": 0,
+    "options": ["<Card />", "<header />", "<card />", "<search />"]
+  }
+]
